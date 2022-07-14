@@ -1,5 +1,7 @@
 Write-Output "Begin: Execution"
 
+Write-Output "Line added to check source code integration"
+
 <#
     .DESCRIPTION
         An example runbook which gets all the ARM resources using the Managed Identity
