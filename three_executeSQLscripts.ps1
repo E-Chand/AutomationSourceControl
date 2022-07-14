@@ -8,6 +8,7 @@ catch {
     throw $_.Exception
 }
 
+Write-Output "Line added to check source code integration"
 
 # Set Variables
 $TargetServerInstance='my-tgt-sql-server.database.windows.net'
